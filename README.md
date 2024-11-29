@@ -22,8 +22,8 @@ Este projeto simula um abiente **_distribuído em consenso_** utilizando o **_al
 1. __Clone o repositório__
 
     ```
-    git clone https://github.com/seuusuario/projeto-blockchain.git
-    cd projeto-blockchain
+    git clone https://github.com/Eric-Rodrigues-Abib/TrabalhoAlgConsenso.git
+    cd TrabalhoAlgConsenso
     ```
 
 2. __Execute o script__
@@ -40,9 +40,9 @@ Este projeto simula um abiente **_distribuído em consenso_** utilizando o **_al
 ### Estrutura do projeto
 
     ```
-    projeto-blockchain/
-    ├── simulador_PoW.py       # Script principal com a implementação
-    ├── README.md     # Documentação do projeto
+    TrabalhoAlgConsenso/
+    ├──  README.md     # Documentação do projeto
+    ├──  simulador_PoW.py       # Script principal com a implementação
     ```
 
 ## Fases do Algoritmo
@@ -68,8 +68,8 @@ Este projeto simula um abiente **_distribuído em consenso_** utilizando o **_al
 
 4 __Simulação de Falhas e Recuperação__
 
-    - Nós falham aleatoriamente durante a execução
-    - Nós inativos permanecem fora do processo de mineração até serem "recuperados" após um intervalo de tempo aleatório
+    - Nós falham aleatoriamente durante a execução.
+    - Nós inativos permanecem fora do processo de mineração até serem "recuperados" após um intervalo de tempo aleatório.
 
 ## Simulação de Falhas e Respostas do Sistema
 
